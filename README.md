@@ -31,7 +31,13 @@ Señal COMPOSITE | PAL 512Colores | 2
 ---
 A 23-ABRIL-2023 tenemos los siguientes precios de la memoria QSPI de 64Mbit o 8Mbytes:
 
+Versión a +1V8 166Mhz.
+
 https://www.gridconnect.com/products/esp-psram-64-for-wroom-32-and-esp32
+
+Versión a +3v3 133Mhz.
+
+https://www.gridconnect.com/products/esp-psram-64-for-wroom-32-and-esp32?variant=39313950244887
 
 https://protosupplies.com/product/psram/
 
