@@ -16,6 +16,17 @@ Señal Transmisión  | TX sin gestión de flujo para MIDI| 1
 Señal EAR | Señal de entrada | 1
 Señal COMPOSITE | PAL 512Colores | 2
 
+---
+
+
+## Diseño de la PCB para la iCEZUM ALHAMBRA:
+
+![Diseño de la PCB para la iCEZUM ALHAMBRA](https://github.com/AtlasFPGA/iCEZUM_ALHAMBRA-ATLAS/blob/main/FOTOS/iCEZUM_ALAMBRA-ATLAS-PCB.png)
+
+## Esquema de adaptación para la iCEZUM ALHAMBRA:
+
+![Esquema de adaptación para la iCEZUM ALHAMBRA](https://github.com/AtlasFPGA/iCEZUM_ALHAMBRA-ATLAS/blob/main/FOTOS/iCEZUM_ALAMBRA-ATLAS-ESQUEMA-BETA-I.png)
+
 
 ---
 A 23-ABRIL-2023 tenemos los siguientes precios de la memoria QSPI de 64Mbit o 8Mbytes:
