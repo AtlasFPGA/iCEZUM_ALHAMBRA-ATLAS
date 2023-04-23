@@ -1,5 +1,5 @@
 # iCEZUM_ALHAMBRA-ATLAS
-Adaptar la placa iCEZUM ALHAMBRA de 1Kle a la placa ATLAS
+# Adaptar la placa I/O BOARD ATLAS a la placa iCEZUM ALHAMBRA de 1Kle:
 
 Se añade el siguiente esquemario de dispositivos para practicar con la iCEZUM ALHAMBRA.
 
