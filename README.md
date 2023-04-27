@@ -3,7 +3,7 @@
 
 Se añade el siguiente esquemario de dispositivos para practicar con la iCEZUM ALHAMBRA.
 
-señales ATLAS| aclaración en STM32F103 | numero pines
+señales ATLAS| aclaración en iCEZUM ALHAMBRA | numero pines
 | :--- | ---: | :---:
 QPI SPRAM | 6 señales para un Quad SPI de 4 bits| 6
 Señal VGA64 |Usamos en la iCEZUM ALHAMBRA un esquema de 8colores 111+HS+VS | 8
