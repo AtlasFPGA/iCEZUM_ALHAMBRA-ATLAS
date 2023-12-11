@@ -1,6 +1,8 @@
 # iCEZUM_ALHAMBRA-ATLAS
 # Adaptar la placa I/O BOARD ATLAS a la placa iCEZUM ALHAMBRA de 1Kle:
 
+Group ATLAS in Telegram: https://t.me/INICIATIVAATLAS
+
 Se añade el siguiente esquemario de dispositivos para practicar con la iCEZUM ALHAMBRA.
 
 señales ATLAS| aclaración en iCEZUM ALHAMBRA | numero pines
